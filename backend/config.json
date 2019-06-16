@@ -1,0 +1,13 @@
+{
+  "server_port": 2108,
+  "client_port": 8080,
+  "services":[
+    "run.WebServer"
+  ],
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "db_name": "application"
+  },
+  "default_limit": 10
+}
